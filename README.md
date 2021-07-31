@@ -51,9 +51,10 @@
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="RoyalRajput18's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RoyalRajput18&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</details>
   
   
-📊 **This week I spent my time on**
+## 📊 **This week I spent my time on**
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=RoyalRajput18&hide_title=true&hide_border=true&langs_count=5)
 
