@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Flutter Projects**
+- 👯 I’m looking to collaborate on **Flutter Projects**  
 
 - 💬 Ask me about **Flutter**
 
