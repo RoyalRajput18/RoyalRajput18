@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Divyarajsinh Chudasama</h1> 
+<h1 align="center">Hi 👋, I'm Divyarajsinh Chudasama</h1>
 <!-- ![Hi, I'm Divyarajsinh 👋 I'm a 🚀 Flutter developer 🚀 I ❤️ Flutter ❤️] -->
 <h3 align="center">A passionate software developer from India</h3>
 <p align="center">
