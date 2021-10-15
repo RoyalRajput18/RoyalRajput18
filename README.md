@@ -3,7 +3,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 <p align="center">
   <a ><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20Flutter%20Developer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
+</p>  
 
 
 <p align="center"> <a ><img src="https://github-profile-trophy.vercel.app/?username=royalrajput18&margin-w=5&margin-h=5&column=7" alt="royalrajput18" /></a> </p>
